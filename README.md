@@ -20,6 +20,11 @@ It allows adding, editing, searching, displaying, and removing student details i
 - **MySQL** (Database for storing student records)  
 - **IntelliJ IDEA 
 
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+git clone https://github.com/AmitYadav0001/Task4_Student_Management_System.git
+
 ---
 Amit Yadav
 📌 CodSoft Internship – Java Programming
